@@ -1,0 +1,4 @@
+Bundle-Name: test-permission
+Bundle-SymbolicName: test.permission
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.bookmarks.web;bundle-version="1.0.23"
